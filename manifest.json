@@ -1,0 +1,13 @@
+{
+  "name": "家用物品管家",
+  "short_name": "物品管家",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#007aff",
+  "icons": [{
+    "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%23007aff'/%3E%3Ctext x='50' y='55' text-anchor='middle' fill='white' font-size='30'%3E📦%3C/text%3E%3C/svg%3E",
+    "sizes": "192x192",
+    "type": "image/svg+xml"
+  }]
+}
